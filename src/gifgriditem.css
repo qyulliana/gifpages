@@ -1,0 +1,45 @@
+.card{
+    align-content: center;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    overflow: hidden;
+    border: 1px solid gray;
+}
+
+.card-grid{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.paragraph-card{
+    padding: 5px;
+    text-align: center;
+}
+
+input {
+    width: 80%;
+    margin-top: 20px;
+    outline: none;
+    padding: 12px;
+    font-size: 20px;
+    border: none;
+}
+
+.container-input{
+    width: 700px;
+    height: 77px;
+    border-bottom: 1px solid #8306C7;
+    margin-top: 20px;
+
+
+
+
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
